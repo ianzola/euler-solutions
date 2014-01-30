@@ -1,0 +1,1 @@
+Some programming to solve interesting problems from Project Euler
